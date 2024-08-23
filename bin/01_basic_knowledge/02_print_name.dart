@@ -9,6 +9,6 @@
 // Basic Dart Program For Printing Name
 
 void main() {
-  var name = "Jone";
+  var name = "John";
   print(name);
 }
